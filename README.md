@@ -166,7 +166,7 @@ All rights reserved.
 
 ## [2.x]
 
-### [2.1.0] (https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.2.1.0)
+### [2.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.2.1.0)
 
 \+ Skin is officialy released!
 ### [2.0.4]
