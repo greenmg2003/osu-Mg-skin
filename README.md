@@ -146,7 +146,7 @@ All rights reserved.
 
 = Credits to osu! Gacha - Friends and love
 
-### [3.0.3 + 3.0.4]
+### [3.0.3 + 3.0.4](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.3)
 
 🔄 Remake the hitsound, yeah?
 
