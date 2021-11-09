@@ -5,7 +5,7 @@ Please consider taking it for free, credits me if you want to reuse it ^^
 
 Here is my information about my skins
 
-
+---
 
 #                                ~ osu! Mg ~
 
@@ -107,7 +107,10 @@ All rights reserved.
 
 \+ Started making the skin!
 
-----------------------------------------------
+🔄 Hitsounds are changed to osu! lazer theme!
+
+= Credits to osu! lazer Resources: https://github.com/ppy/osu-resources
+
 ## [3.x]
 
 ### [3.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.1.0)
