@@ -110,11 +110,11 @@ All rights reserved.
 ----------------------------------------------
 ## [3.x]
 
-### [3.1.0]
+### [3.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.1.0)
 
 \+ Skin is officialy released!
 
-### [3.0.9]
+### [3.0.9](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.9)
 
 🔄 Remake the interface hitsound
 
@@ -124,7 +124,7 @@ All rights reserved.
 
 = Credits to osu! Gacha - Friends and love and WhiteCat skin
 
-### [3.0.8]
+### [3.0.8](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.8)
 
 🔄 Remake the cursor, slier follow circle
 
