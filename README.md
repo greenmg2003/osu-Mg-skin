@@ -132,7 +132,7 @@ All rights reserved.
 
 = Credits to osu! Gacha - Friends and love, WhiteCat, and Vaxei skin
 
-### [3.0.6 + 3.0.7]
+### [3.0.6 + 3.0.7](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.6)
 
 🔄 Fixed again the slider follow circle and approach circle 
 
