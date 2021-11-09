@@ -140,7 +140,7 @@ All rights reserved.
 
  = Credits to osu! Gacha - Friends and love, Loneliness of Hikari Richiumu and WhiteCat skin
  
-### [3.0.5]
+### [3.0.5](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.5)
 
 🔄 Remake hit 0, hit 50, hit 100, hit 100 katu, hit 300, hit 300 katu, hit 300 geki: Add animation to these elements
 
