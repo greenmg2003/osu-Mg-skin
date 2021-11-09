@@ -152,7 +152,7 @@ All rights reserved.
 
 = Credits to Cookiezi skin
 
-### [3.0.1 + 3.0.2]((https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.1))
+### [3.0.1 + 3.0.2](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.1)
 
 🔄 Remake almost all osu! standard interface and some osu! mania elements, let's feel the rhythm osu! lazer
 
