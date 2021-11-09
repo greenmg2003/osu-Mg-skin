@@ -126,7 +126,7 @@ All rights reserved.
 
 ### [3.0.8](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.8)
 
-🔄 Remake the cursor, slier follow circle
+🔄 Remake the cursor, slider follow circle
 
 \+ Added bg of menu of mode selection
 
