@@ -94,7 +94,7 @@ All rights reserved.
 
 # [4.x]
 
-### [4.0.0]
+### [4.0.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.0)
 
 🔄 Fixed almost all hitsounds of Standard mode, and some hitsounds of interface
 
@@ -103,7 +103,7 @@ All rights reserved.
 \- Deleted the response of hit300, hit300g, hit300k (It means the image files of hit300, hit300g, hit300k are kept, while hit300-0, hit300g-0, hit300k-0 are changed from the image with the word "G R E A T" to a 1px image in transparent)
 
 🔄 The overlay of hitcircle is no longer translucent (If you want it to be blurred, please notify me, the next update will make it blurry)
-### [4.0.0b]
+### [4.0.0-beta](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.0-beta)
 
 \+ Started making the skin!
 
