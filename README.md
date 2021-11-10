@@ -172,7 +172,7 @@ All rights reserved.
 ### [2.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.2.1.0)
 
 \+ Skin is officialy released!
-### [2.0.4]
+### [2.0.4] (lost the skin)
 
 🔄 Changed new theme of hitcircle, thanks to this beatmap: https://osu.ppy.sh/beatmapsets/16599#osu/59406
 
@@ -180,7 +180,7 @@ All rights reserved.
 
 🔄 Changed taiko! hitsounds - Let's play and feel like Taiko no Tatsujin game!
 
-### [2.0.3]
+### [2.0.3] (lost the skin)
 
 \+ Added mania elements, files and edited elements in skin.ini
 
