@@ -33,37 +33,37 @@ All rights reserved.
 
 + Light Lithium (skin's co-owner) (In HR mode, and 30% of the skin)
 
-### Couple 2:
+### Couple 2: (In Combo Burst 2 - New)
 
-+ Hikari Maguneshiumu (Another character of owner) (In Co-op mode)(Also it's Vanilla Mg [In HT mode])
++ Hikari Maguneshiumu (Another character of owner) (In Co-op mode)(Also it's Vanilla Mg [In HT mode]) (Updated character will be a little bit different)
 
 + Hikari Richiumu (Another character of Li) (In Co-op mode)
 
 ### Not-a-couple:
 
-+ Hannah (In DT mode, Combo Burst 5)
++ Hannah (In DT mode, Combo Burst 5 - Old, Comboburst 3 - New)
 
-+ TCT - Trung Chanh Trinh (In Fade-In [FI] mode, Combo Burst 6)
++ TCT - Trung Chanh Trinh (In Fade-In [FI] mode, Combo Burst 6 - Old, Comboburst 4 - New)
 
-### Couple 3: (In Combo Burst 10)
+### Couple 3: (In Combo Burst 10 - Old)
 
 + Sakura (Element: Actinium - Ac) (In Skip button)
 
 + Delta Calcium (In DT mode)
 
-### Couple 4: (In Combo Burst 9)
+### Couple 4: (In Combo Burst 9 - Old)
 
 + Peter Barium (In Random [RD] mode)
 
 + Ellie Nickel (In FL mode)
 
-### Couple 5:
+### Couple 5: (In Comboburst 5 - New)
 
-+ Dark Mg (Yami Mg) (In NC mode, Combo Burst 3)
++ Dark Mg (Yami Mg) (In NC mode, Combo Burst 3 - Old)
 
-+ Orangery Lofn (In HD mode, Combo Burst 4)
++ Orangery Lofn (In HD mode, Combo Burst 4 - Old)
 
-### Couple 6: (In Combo Burst 7)
+### Couple 6: (In Combo Burst 7 - Old)
 
 + Atori Manganesse (Mn) (In AP mode)
 + Haruka Berium (In SO mode)
@@ -74,7 +74,7 @@ All rights reserved.
 
 + Clemont (In CN mode)
 
-### Couple 8: (In V2 mode) (In Combo Burst 8)
+### Couple 8: (In V2 mode) (In Combo Burst 8 - Old)
 
 + Billy Iron (boy) 
 
