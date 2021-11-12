@@ -117,6 +117,8 @@ All rights reserved.
 
 \+ Skin is officialy released!
 
+___Preview:___ https://www.youtube.com/watch?v=Lstd-4ryi8M
+
 ### [3.0.9](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.9)
 
 🔄 Remake the interface hitsound
@@ -134,6 +136,8 @@ All rights reserved.
 \+ Added bg of menu of mode selection
 
 = Credits to osu! Gacha - Friends and love, WhiteCat, and Vaxei skin
+
+___Preview:___ https://www.youtube.com/watch?v=xuldF2wwnIM
 
 ### [3.0.6 + 3.0.7](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.0.6)
 
@@ -172,6 +176,9 @@ All rights reserved.
 ### [2.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.2.1.0)
 
 \+ Skin is officialy released!
+
+___Preview (not all of elements are shown in this video):___ https://www.youtube.com/watch?v=lOg6r7LCDdA&t=4s
+
 ### [2.0.4] (lost the skin)
 
 🔄 Changed new theme of hitcircle, thanks to this beatmap: https://osu.ppy.sh/beatmapsets/16599#osu/59406
