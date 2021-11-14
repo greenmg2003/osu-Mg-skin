@@ -113,7 +113,7 @@ All rights reserved.
 
 ## [3.x]
 
-### [3.1.1]
+### [3.1.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.1.1)
 
 + Skin is released once again!
 
@@ -121,7 +121,7 @@ All rights reserved.
 
 🔄 Remake hit circle combo (default-x): Also changed to new font: Torus
 
-### [3.1.1-beta]
+### [3.1.1-beta](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.1.1-beta)
 
 🔄 Remake the hitsound of Interface, feel more familiar to osu! lazer
 
