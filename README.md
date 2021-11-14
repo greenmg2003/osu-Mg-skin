@@ -113,6 +113,20 @@ All rights reserved.
 
 ## [3.x]
 
+### [3.1.1]
+
++ Skin is released once again!
+
+🔄 Remake hit 0, hit 50, hit 100, hit 100 katu, hit 300, hit 300 katu, hit 300 geki showing up in the ranking screen: Changed to new font: Torus
+
+🔄 Remake hit circle combo (default-x): Also changed to new font: Torus
+
+### [3.1.1-beta]
+
+🔄 Remake the hitsound of Interface, feel more familiar to osu! lazer
+
+= Credits to Credits to osu! lazer Resources: https://github.com/ppy/osu-resources
+
 ### [3.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.3.1.0)
 
 \+ Skin is officialy released!
