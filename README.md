@@ -12,7 +12,7 @@ Here is my information about my skins
 
 - Author: **Alpha Green Mg**
 
-- Version: [**4.0.1**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.0)
+- Version: [**4.0.1**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1)
 
 - Copyright is now not free, but credits to my skin is free from this version.
 
@@ -92,7 +92,15 @@ All rights reserved.
 
 # ~ Changelog ~
 
+
 # [4.x]
+### [4.0.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1)
+
+🔄 Reworked comboburst
+
+\+ Added hitsounds for keyboard
+
+\+ Added heartbeat to osu! cookie too
 
 ### [4.0.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.0)
 
