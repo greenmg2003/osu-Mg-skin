@@ -12,7 +12,7 @@ Here is my information about my skins
 
 - Author: **Alpha Green Mg**
 
-- Version: [**4.0.0**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.0)
+- Version: [**4.0.1**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.0)
 
 - Copyright is now not free, but credits to my skin is free from this version.
 
@@ -27,13 +27,13 @@ All rights reserved.
 
 #                          ~ Mg's team in the skin - List of people ~
 
-### Couple 1 - Main:
+### Couple 1 - Main: (In Combo Burst 5 - New)
 
 + Light Mg (skin's owner) (In EZ mode, and 30% of the skin)
 
 + Light Lithium (skin's co-owner) (In HR mode, and 30% of the skin)
 
-### Couple 2: (In Combo Burst 2 - New)
+### Couple 2: (In Combo Burst 1 - New)
 
 + Hikari Maguneshiumu (Another character of owner) (In Co-op mode)(Also it's Vanilla Mg [In HT mode]) (Updated character will be a little bit different)
 
@@ -41,9 +41,9 @@ All rights reserved.
 
 ### Not-a-couple:
 
-+ Hannah (In DT mode, Combo Burst 5 - Old, Comboburst 3 - New)
++ Hannah (In DT mode, Combo Burst 5 - Old, Comboburst 2 - New)
 
-+ TCT - Trung Chanh Trinh (In Fade-In [FI] mode, Combo Burst 6 - Old, Comboburst 4 - New)
++ TCT - Trung Chanh Trinh (In Fade-In [FI] mode, Combo Burst 6 - Old, Comboburst 3 - New)
 
 ### Couple 3: (In Combo Burst 10 - Old)
 
@@ -57,7 +57,7 @@ All rights reserved.
 
 + Ellie Nickel (In FL mode)
 
-### Couple 5: (In Comboburst 5 - New)
+### Couple 5: (In Comboburst 4 - New)
 
 + Dark Mg (Yami Mg) (In NC mode, Combo Burst 3 - Old)
 
