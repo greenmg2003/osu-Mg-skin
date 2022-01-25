@@ -29,15 +29,15 @@ All rights reserved.
 
 ### Couple 1 - Main: (In Combo Burst 5 - New)
 
-+ Light Mg (skin's owner) (In EZ mode, and 30% of the skin)
++ Light Mg/Alpha Green Mg (skin's owner) (In EZ mode, and section-pass/fail)
 
-+ Light Lithium (skin's co-owner) (In HR mode, and 30% of the skin)
++ Light Lithium/Lithia (In HR mode, and in taiko! section)
 
 ### Couple 2: (In Combo Burst 1 - New)
 
 + Hikari Maguneshiumu (Another character of owner) (In Co-op mode)(Also it's Vanilla Mg [In HT mode]) (Updated character will be a little bit different)
 
-+ Hikari Richiumu (Another character of Li) (In Co-op mode)
++ Hikari Richiumu (skin's co-owner) (In Co-op mode)
 
 ### Not-a-couple:
 
@@ -106,7 +106,7 @@ All rights reserved.
 
 🔄 Fixed almost all hitsounds of Standard mode, and some hitsounds of interface
 
-🔄 Fixed combobreak as suggested by Hikari-senpai
+🔄 Fixed combobreak as suggested by Hikari Richiumu-chan
 
 \- Deleted the response of hit300, hit300g, hit300k (It means the image files of hit300, hit300g, hit300k are kept, while hit300-0, hit300g-0, hit300k-0 are changed from the image with the word "G R E A T" to a 1px image in transparent)
 
