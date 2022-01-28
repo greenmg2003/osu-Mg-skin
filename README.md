@@ -12,7 +12,7 @@ Here is my information about my skins
 
 - Author: **Alpha Green Mg**
 
-- Version: [**4.0.1**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1)
+- Version: [**4.0.2**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.2)
 
 - Copyright is now not free, but credits to my skin is free from this version.
 
@@ -94,6 +94,14 @@ All rights reserved.
 
 
 # [4.x]
+### [4.0.2](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.2)
+
+🔄 Fixed bugs
+
+🔄 Fixed menu-back button
+
+🔄 Catcher changed: Let's welcome Hikari-kun to catch! section! (And see ya Mg-kun!)
+
 ### [4.0.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1)
 
 🔄 Reworked comboburst
