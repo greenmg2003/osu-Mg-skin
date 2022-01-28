@@ -102,6 +102,8 @@ All rights reserved.
 
 🔄 Catcher changed: Let's welcome Hikari-kun to catch! section! (And see ya Mg-kun!)
 
+\+ Added metronomelow file, now you can hear the new hitsound of Hikari-kun catching the bananas!
+
 ### [4.0.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1)
 
 🔄 Reworked comboburst
