@@ -12,7 +12,7 @@ Here is my information about my skins
 
 - Author: **Alpha Green Mg**
 
-- Version: [**4.0.2**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.2)
+- Version: [**4.0.3**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3)
 
 - Copyright is now not free, but credits to my skin is free from this version.
 
@@ -94,6 +94,22 @@ All rights reserved.
 
 
 # [4.x]
+### [4.0.3](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3)
+
+\+ Released today (14/2/2022) for special Valentines Day!~ ^^
+
+\+ Added "Progress" next to Progress bar and "Stamina bar" next to HP Bar
+
+🔄 Edited song select UI:
+
+  \+ Now you are able to tap to group songs by "collections", "artist", "difficulty", "date played", no grouping" easier!
+  
+  \+ New couple: Hikari-chan & Hikari-kun
+
+🔄 Ranking panel changed: Replaced Lofn x Beta Mg by Hikari-kun x Hikari-chan couple
+
+🔄 Taiko character changed: Let's welcome Hikari-chan to taiko! section! (And see ya Lithia!)
+
 ### [4.0.2](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.2)
 
 🔄 Fixed bugs
