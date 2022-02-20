@@ -1,4 +1,4 @@
-# Rules and guildlines for contributing
+# Rules and guildlines for contributing and making discussion
 
 ## 1. No toxic towards Gacha elements, and feel free to speak out your idea!
 
@@ -24,7 +24,7 @@
 
 \+ _Avoid ruining the mood of the others_
 
-\+ NSFW things are not allowed, sorry (Due to GitHub's rules)
+\+ NSFW things are not allowed, sorry (Due to GitHub's rules, if it's allowed, then I'll update here later)
 
 \+ Unity is the first, so fun short drama is allowed, but, please avoid serious + toxic drama and sensitive topic.
 
