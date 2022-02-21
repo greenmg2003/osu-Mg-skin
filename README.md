@@ -23,7 +23,10 @@ All rights reserved.
                                  
 ⚠ This skin contains elements with rapidly Gacha Club Theme and Default Theme. Please take caution if you're affected by epilepsy.
 
-✳ If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode
+✳ For 2.1.0, 3.0.x and 3.1.x (Old version): If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
+
+
+✳ For 4.0.x, 4.1.x and 4.2.x (New version): The skin is only SD-based, HD elements will be reworked once I have plenty of time to do.
 
 #                          ~ Mg's team in the skin - List of people ~
 
