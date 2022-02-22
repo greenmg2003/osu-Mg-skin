@@ -94,6 +94,23 @@ All rights reserved.
 
 
 # [4.x]
+### [4.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.1.0) (a major update from [4.0.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1) for Mg and Lithia Couple)
+
+\+ Song-select interface, menu click hitsounds reworked, credits to osu! lazer! 2021 November update
+
+\+ menu-background.jpg is updated to my 18th anniversary banner (Suggested by Corne2Plum3 at issue [#15](https://github.com/greenmg2003/osu-Mg-skin/issues/15))
+
+\+ Accuracy counter is no longer overlap the song progress bar numbers (Suggested by Corne2Plum3 at issue [#16](https://github.com/greenmg2003/osu-Mg-skin/issues/16))
+
+\+ Spinner is now better (Suggested by Corne2Plum3 at issue [#17](https://github.com/greenmg2003/osu-Mg-skin/issues/17))
+
+\+ There are line separations between Mode, Mods, Random and Options (Suggested by Corne2Plum3 at issue [#18](https://github.com/greenmg2003/osu-Mg-skin/issues/18))
+
+\+ skin.ini config: Version is edited to 2.5 (Suggested by Corne2Plum3 at issue [#20](https://github.com/greenmg2003/osu-Mg-skin/issues/20))
+
+\+ For 4.1.0: menu-back has the word "Back" clearlier, but the ranking panel can't be fixed, sorry ☹️
+
+\+ We have the rights to rotate catch! ruleset icon, so I rotated it 90 degrees clockwise
 ### [4.0.3](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3)
 
 \+ Released today (14/2/2022) for special Valentines Day!~ ^^
