@@ -25,8 +25,7 @@ All rights reserved.
 
 ✳ For 2.1.0, 3.0.x and 3.1.x (Old version): If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
 
-
-✳ For 4.0.x, 4.1.x and 4.2.x (New version): The skin is only SD-based, HD elements will be reworked once I have plenty of time to do.
+✳ For 4.0.x, 4.1.x and 4.2.x (New version): The skin is only SD-based, HD elements will be reworked once I have plenty of time to do, more information at issue [#14](https://github.com/greenmg2003/osu-Mg-skin/issues/14)
 
 #                          ~ Mg's team in the skin - List of people ~
 
@@ -97,6 +96,28 @@ All rights reserved.
 
 
 # [4.x]
+### [4.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.1.0) (a major update from [4.0.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1) for Mg and Lithia Couple) and [4.2.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.2.0) (a major update from [4.0.3](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3) for Hikari-kun and Hikari-chan couple)  (these will be soon released, about the end of February)
+
+\+ GitHub update: Files are available in each branch (See [#10](https://github.com/greenmg2003/osu-Mg-skin/issues/10))
+
+\+ Song-select interface, menu click hitsounds reworked, credits to osu! lazer! 2021 November update
+
+\+ menu-background.jpg is updated to my 18th anniversary banner (Suggested by Corne2Plum3 at issue [#15](https://github.com/greenmg2003/osu-Mg-skin/issues/15))
+
+\+ Accuracy counter is no longer overlap the song progress bar numbers (Suggested by Corne2Plum3 at issue [#16](https://github.com/greenmg2003/osu-Mg-skin/issues/16))
+
+\+ Spinner is now better (Suggested by Corne2Plum3 at issue [#17](https://github.com/greenmg2003/osu-Mg-skin/issues/17))
+
+\+ There are line separations between Mode, Mods, Random and Options (Suggestions from Corne2Plum3 at issue [#18](https://github.com/greenmg2003/osu-Mg-skin/issues/18))
+
+\+ skin.ini config: Version is edited to 2.5 (Suggested by Corne2Plum3 at issue [#20](https://github.com/greenmg2003/osu-Mg-skin/issues/20))
+
+\+ For 4.1.0: menu-back has the word "Back" clearlier, and the ranking panel can't be fixed, sorry ☹️
+
+\+ For 4.2.0: ranking-panel is fixed (Suggested by Corne2Plum3 at issue [#21](https://github.com/greenmg2003/osu-Mg-skin/issues/21))
+
+\+ We have the rights to rotate catch! ruleset icon, so I rotated it 90 degrees clockwise
+
 ### [4.0.3](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3)
 
 \+ Released today (14/2/2022) for special Valentines Day!~ ^^
