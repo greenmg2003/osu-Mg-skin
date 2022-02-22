@@ -12,7 +12,7 @@ Here is my information about my skins
 
 - Author: **Alpha Green Mg**
 
-- Version: [**4.0.3**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3)
+- Version: [**4.1.0**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.1.0)
 
 - Copyright is now not free, but credits to my skin is free from this version.
 
