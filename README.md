@@ -108,7 +108,7 @@ All rights reserved.
 
 \+ Spinner is now better (Suggested by Corne2Plum3 at issue [#17](https://github.com/greenmg2003/osu-Mg-skin/issues/17))
 
-\+ There are line separations between Mode, Mods, Random and Options (Suggestions from Corne2Plum3 at issue [#18](https://github.com/greenmg2003/osu-Mg-skin/issues/18))
+\+ There are line separations between Mode, Mods, Random and Options (Suggested by Corne2Plum3 at issue [#18](https://github.com/greenmg2003/osu-Mg-skin/issues/18))
 
 \+ skin.ini config: Version is edited to 2.5 (Suggested by Corne2Plum3 at issue [#20](https://github.com/greenmg2003/osu-Mg-skin/issues/20))
 
