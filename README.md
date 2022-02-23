@@ -43,7 +43,7 @@ All rights reserved.
 
 ### Not-a-couple:
 
-+ Hannah (In DT mode, Combo Burst 5 - Old, Comboburst 2 - New)
++ Hannah - Bao 1908 (In DT mode, Combo Burst 5 - Old, Comboburst 2 - New)
 
 + TCT - Trung Chanh Trinh (In Fade-In [FI] mode, Combo Burst 6 - Old, Comboburst 3 - New)
 
@@ -88,9 +88,9 @@ All rights reserved.
 
 - Hikari Maguneshiumu#3460 (skin's owner)
 
-- Kousaka Honoka#0308
+- Bao1908#5172
 
-- TCT#2008
+- TCT#9584
 
 # ~ Changelog ~
 
