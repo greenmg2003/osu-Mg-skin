@@ -29,13 +29,13 @@ All rights reserved.
 
 #                          ~ Mg's team in the skin - List of people ~
 
-### Couple 1 - Main: (In Combo Burst 5 - New)
+### Couple 1 - Main: (In Combo Burst 5 - New, in ranking panel of both 4.1.0 + 4.2.0 and in song selection interface of version 4.1.0)
 
-+ Light Mg/Alpha Green Mg (skin's owner) (In EZ mode, and section-pass/fail)
++ Light Mg/Alpha Green Mg (skin's owner) (In EZ, NF, Relax mode, section-pass/fail, and in catch! section of 4.1.0)
 
-+ Light Lithium/Lithia (In HR mode, and in taiko! section)
++ Light Lithium/Lithia (In HR, NF, Relax mode, and in taiko! section of 4.1.0)
 
-### Couple 2: (In Combo Burst 1 - New)
+### Couple 2: (In Combo Burst 1 - New, exclusive in ranking panel and song selection interface of version 4.2.0)
 
 + Hikari Maguneshiumu (Another character of owner) (In Co-op mode)(Also it's Vanilla Mg [In HT mode]) (Updated character will be a little bit different)
 
@@ -59,7 +59,7 @@ All rights reserved.
 
 + Ellie Nickel (In FL mode)
 
-### Couple 5: (In Comboburst 4 - New)
+### Couple 5: (In Comboburst 4 - New and in ranking panel from 2.1.0 to 4.1.0)
 
 + Dark Mg (Yami Mg) (In NC mode, Combo Burst 3 - Old)
 
