@@ -111,6 +111,15 @@ All rights reserved.
 \+ For 4.1.0: menu-back has the word "Back" clearlier, but the ranking panel can't be fixed, sorry ☹️
 
 \+ We have the rights to rotate catch! ruleset icon, so I rotated it 90 degrees clockwise
+
++ 7K Mania! ruleset is available in my skin now, after the very hard work from bringing *"unused"* idea of osu! lazer skinning
+
+= Credits to that *"unused"* idea of osu! lazer skinning, check their work: https://www.figma.com/file/up6guVobzpc3DZlQxWzVmv/Gameplay-Layout
+
+\+ 2 new unknow melodies are added in my skin for applause.mp3 file, feel free to make the chat/issue to tell me the name if you know!
+
+🔄 Follow circle SD element is changed
+
 ### [4.0.3](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3)
 
 \+ Released today (14/2/2022) for special Valentines Day!~ ^^
