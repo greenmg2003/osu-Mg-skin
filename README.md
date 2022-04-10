@@ -128,6 +128,8 @@ All rights reserved.
 
 \+ Beta release is available from approx. 21:00 27/03/2022 (GMT + 7)
 
+\+ Final release is out from approx. 22:50 10/04/2022 (GMT + 7)
+
 ### [4.0.3](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3)
 
 \+ Released today (14/2/2022) for special Valentines Day!~ ^^
