@@ -27,6 +27,8 @@ All rights reserved.
 
 ✳ For 4.0.x, 4.1.x and 4.2.x (New version): The skin is only SD-based, HD elements will be reworked once I have plenty of time to do, more information at issue [#14](https://github.com/greenmg2003/osu-Mg-skin/issues/14)
 
+✳ Want to contribue? Great, read this first before contributing: https://github.com/greenmg2003/osu-Mg-skin/blob/main/CONTRIBUTING.md
+
 #                          ~ Mg's team in the skin - List of people ~
 
 ### Couple 1 - Main: (In Combo Burst 5 - New, in ranking panel of both 4.1.0 + 4.2.0 and in song selection interface of version 4.1.0)
