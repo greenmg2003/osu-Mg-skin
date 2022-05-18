@@ -4,7 +4,7 @@
 
 \+ If you use my skin and want to help me grow my skin, please reduce your hatred towars Gacha elements on my skin down to 0. It's acceptable if you don't like it without leaving any toxic comment.
 
-\+ You can open issues if you want to start contributing my project. Suggestions are opened too.
+\+ You can open issues if you want to start contributing my project. Suggestions are opened too. Also pull requests are open to everyone too! (Don't know how? Check 5th section of this file)
 
 ## 2. Feel like you are at home with us!
 
@@ -33,6 +33,26 @@
 \+ Toxic behaviour, bragging at any kind will be resulted in a lock from chatting in discussion, so please consider thinking **twice** before acting
 
 \+ Avoid spamming too much or members in the chat will be in chaos. (Yes, I'm serious that you can spam to express what you wanna say, I allowed, but please avoid ruining mood of others just because of your spam)
+
+## 5. How to contribute?
+
+Okay so, this is how:
+
+### Issue: 
+
+Straight up commit creating a new issue in the issue tab
+
+### Pull request:
+
+Step 1: Fork this repo
+
+Step 2: Upload the file onto the version branch you desire in the fork. Do note that you need to be careful on this.
+
+Step 3: Go back to here, switch to tab: "Pull request", then make the comparision between your branch and the version you want to request
+
+Step 4: "Create pull request" and type everything you want, from the title to description.
+
+More details can be found here: https://opensource.com/article/19/7/create-pull-request-github
 
 -----------------------------------------------------------------------------------
 
