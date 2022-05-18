@@ -68,6 +68,7 @@ All rights reserved.
 ### Couple 6: (In Combo Burst 7 - Old)
 
 + Atori Manganesse (Mn) (In AP mode)
+
 + Haruka Berium (In SO mode)
 
 ### Couple 7:
@@ -83,6 +84,8 @@ All rights reserved.
 + Sarah Strontium (girl)
 
 # ~ Discord ~
+
+- Workshop: https://discord.gg/B9VjFgEdXy
 
 - Hikari Richiumu#4996 (skin's co-owner)
 
