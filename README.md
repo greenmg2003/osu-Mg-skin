@@ -14,7 +14,7 @@ Here is my information about my skins
 
 - Version: [**4.1.0**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.1.0) and [**4.2.0**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.2.0)
 
-- Copyright is now not free, but credits to my skin is free from this version.
+- Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's not a non-commercial project.
 
 All rights reserved.
 
