@@ -3,6 +3,8 @@ This is the project to save Mg's skin from osu! Mg 2.1.0 up to now (Only the off
 
 Please consider taking it for free, credits me if you want to reuse it ^^
 
+Status: Project is done, and no more updates. Thank you for all your support!
+
 Here is my information about my skins
 
 ---
