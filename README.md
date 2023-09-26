@@ -14,9 +14,9 @@ Here is my information about my skins
 
 - Author: **Alpha Green Mg**
 
-- Version: [**4.1.1**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.1.1) and [**4.2.0**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.2.1)
+- Version: [**4.1.1**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.1.1), [**4.2.1**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.2.1) and [**5.0.0**](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.5.0.0)
 
-- Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's not a non-commercial project.
+- Copyright issue: Assets that are made from other skins is credited to the owners. Any elements that are made with Gacha Club, if you want to reuse it, please credit me. It's a non-commercial project after all.
 
 All rights reserved.
 
@@ -96,10 +96,19 @@ All rights reserved.
 
 - Bao1908#5172
 
-- TCT#9584
-
 # ~ Changelog ~
 
+# [5.0.0 - finale](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.5.0.0)
+
+\+ Changed back to default combo counter, it looks simple and easier to read.
+
+🔄 Catcher changed: Let's welcome Hikari-chan to catch! section! ^^
+
+\+ Lithia and Mg decided to take a rest from standing in mania! mode, so, it's up to you
+
+\+ Taiko section is now, only pippidon exists there. You can revamp it on your own
+
+🔄 Melody playing in the result screen is changed, credits to Dear My Cat's Popori game music!
 
 # [4.x]
 ### [4.1.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.1.0) (a major update from [4.0.1](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.1) for Mg and Lithia Couple) and [4.2.0](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.2.0) (a major update from [4.0.3](https://github.com/greenmg2003/osu-Mg-skin/releases/tag/v.4.0.3) for Hikari-kun and Hikari-chan couple)  (these will be soon released, about the end of February)
@@ -300,3 +309,5 @@ Mania source: https://osu.ppy.sh/community/forums/topics/1040098
 🔄 Fixed hitsound: Soft Slidertick
 
 \+ Added taiko hitsounds
+
+(Decided not to send screenshot as it's a bit complicated in archiving and sending screenshot into GitHub)
