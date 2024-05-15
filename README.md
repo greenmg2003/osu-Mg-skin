@@ -24,6 +24,8 @@ All rights reserved.
                                  
 ⚠ This skin contains elements with rapidly Gacha Club Theme and Default Theme. Please take caution if you're affected by epilepsy.
 
+⚠ **The Project (along with big project - osu! Gacha Club) no longer affiliate and no longer supports Gacha Community anymore, starting from today (15th May, 2024)**. That doesn't mean I stopped supporting the game, but please DO NOT refer this as a part of Gacha Community anymore. We simply do it for personal use, and maybe for public use to everyone who supported us, not for serving and beautify Gacha Community.
+
 ✳ For 2.1.0, 3.0.x and 3.1.x (Old version): If you want to see clearer hitcircle overlay, switch the skin appearance to @2x mode.
 
 ✳ For 4.0.x, 4.1.x and 4.2.x (New version): The skin is only SD-based, HD elements will be reworked once I have plenty of time to do, more information at issue [#14](https://github.com/greenmg2003/osu-Mg-skin/issues/14)
