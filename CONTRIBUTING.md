@@ -4,7 +4,7 @@
 
 \+ If you use my skin and want to help me grow my skin, please reduce your hatred towars Gacha elements on my skin down to 0. It's acceptable if you don't like it without leaving any toxic comment.
 
-\+ You can open issues if you want to start contributing my project. Suggestions are opened too. Also pull requests are open to everyone too! (Don't know how? Check 5th section of this file)
+\+ You can open issues if you want to start contributing my project. Suggestions are opened too. Also pull requests are open to everyone too! (Don't know how? Check 6th section of this file)
 
 ## 2. Don't refer the project as a part of Gacha Community
 
@@ -12,7 +12,7 @@
 
 \+ However, please do not attack the one who supported my project all along, they are not deserved to be harrashed.
 
-## 2. Feel like you are at home with us!
+## 3. Feel like you are at home with us!
 
 \+ If you feel down, or you have issues in your life, feel free to open up discussions to share with us about what you are struggling. We will try our best to cover you!
 
@@ -20,11 +20,11 @@
 
 \+ If you feel shy or you are willing to contribute our project but you are not brave enough, it's okay, we know that people have limits to express something
 
-## 3. Follow osu! rules
+## 4. Follow osu! rules
 
 \+ It's necessary to follow the osu! rules too. You can check here: https://osu.ppy.sh/wiki/en/Rules
 
-## 4. Behaviours have to be good (Rules from Alpha Green Mg's palace)
+## 5. Behaviours have to be good (Rules from Alpha Green Mg's palace)
 
 \+ Remember that swearing is allowed, but it's limited to swearing in friendly, joking zone without insulting people and subjects. Anyone who insults the members will be punished.
 
@@ -40,7 +40,7 @@
 
 \+ Avoid spamming too much or members in the chat will be in chaos. (Yes, I'm serious that you can spam to express what you wanna say, I allowed, but please avoid ruining mood of others just because of your spam)
 
-## 5. How to contribute?
+## 6. How to contribute?
 
 Okay so, this is how:
 
