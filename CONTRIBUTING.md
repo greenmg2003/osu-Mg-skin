@@ -1,10 +1,16 @@
 # Rules and guildlines for contributing and making discussion
 
-## 1. No toxic towards Gacha elements, and feel free to speak out your idea!
+## 1. No toxic towards Gacha Club elements, and feel free to speak out your idea!
 
 \+ If you use my skin and want to help me grow my skin, please reduce your hatred towars Gacha elements on my skin down to 0. It's acceptable if you don't like it without leaving any toxic comment.
 
 \+ You can open issues if you want to start contributing my project. Suggestions are opened too. Also pull requests are open to everyone too! (Don't know how? Check 5th section of this file)
+
+## 2. Don't refer the project as a part of Gacha Community
+
+\+ Starting from May 15th, the project no longer affiliates with Gacha Community, so every toxic comment that violates 1st rule will be redirected to Gacha Community. I am no longer protecting that crappy community
+
+\+ However, please do not attack the one who supported my project all along, they are not deserved to be harrashed.
 
 ## 2. Feel like you are at home with us!
 
